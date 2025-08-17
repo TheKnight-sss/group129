@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:profile/Componants/lines.dart';
 import 'package:profile/appcolor.dart';
-import 'package:profile/lines.dart';
 
 void main() {
   runApp(const MyApp());
