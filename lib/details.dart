@@ -18,7 +18,7 @@ class Details extends StatelessWidget {
                           ),
                         ),
                         Text(
-                          "Acountat Special",
+                          "Accountat Special",
                           style: TextStyle(fontSize: 20),
                         ),
                         SizedBox(height: 10),
